@@ -1,1 +1,1 @@
-My Project name is Product Designer Site which is a single web application (template) 
+My Project name is Product Designer Site which is a single web application (template). It crafts user-friendly and visually appleaing interfaces. i use only HTML & CSS to provide features like Photography, UI/UX, Illustration, etcoutput. on this website but still it is only like a template for product design so you can easily contribute to tranform it into a fully working site and by just clone this code into VS-Code and click on Live Server to dfisplay its output.
